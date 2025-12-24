@@ -2,7 +2,7 @@
 import { GoogleGenAI } from "@google/genai";
 import { VerificationResult, GroundingSource } from "../types";
 
-const ai = new GoogleGenAI({ apiKey: process.env.API_KEY || '' });
+const ai = new GoogleGenAI({ apiKey: 'AIzaSyA75v0NSVwCBh1KijtXOo-HWdc8paSDimw' || '' });
 
 export async function verifyContent(
   text: string, 

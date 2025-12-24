@@ -1,0 +1,7 @@
+{
+  "name": "VeriFact: WhatsApp Misinformation Guard",
+  "description": "A powerful AI-driven fact-checker designed to combat misinformation. Paste forwarded messages or upload screenshots to get an instant trust score, detailed verification analysis, and credible source references powered by Google Search grounding.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
